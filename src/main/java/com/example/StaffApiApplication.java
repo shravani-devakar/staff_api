@@ -8,6 +8,7 @@ public class StaffApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StaffApiApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
